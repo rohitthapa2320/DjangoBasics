@@ -1,1 +1,2 @@
-Compeleted the docs project.
+# website
+django website intro
